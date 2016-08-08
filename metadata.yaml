@@ -1,0 +1,37 @@
+_repo: The-Story-of-Grettir-the-Strong_12747
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Eiríkr Magnússon
+    aliases:
+    - Eiríkur Magnússon
+    - Magnússon, Eiríkr
+    - Eirikr Magnusson
+    birthdate: 1833
+    deathdate: 1913
+    gutenberg_agent_id: '4526'
+    url: http://www.gutenberg.org/2009/agents/4526
+  - agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grettir Ásmundarson, 996-1031 -- Romances'
+- !lcsh 'Sagas -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: The Story of Grettir the Strong
+url: http://www.gutenberg.org/ebooks/12747
